@@ -1,4 +1,4 @@
-# PBL 06 - Estudo da Esfera  
+# Estudo da Esfera  
 Este projeto contém um código em Java para calcular diferentes propriedades de uma esfera com base em seu diâmetro:  
 - Perímetro (Circunferência) da esfera  
 - Área de superfície da esfera  
